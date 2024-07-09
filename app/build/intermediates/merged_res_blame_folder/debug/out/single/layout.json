@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_food.xml",
+        "source": "com.example.aspenbase.app-main-30:/layout/fragment_food.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/title_section.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/title_section.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_favorite.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_visit.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_visit.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_hotel.xml",
+        "source": "com.example.aspenbase.app-main-30:/layout/fragment_hotel.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_detail.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_adventure.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_adventure.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_food.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_food.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_booking.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_booking.xml"
+    },
+    {
+        "merged": "com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_location.xml",
+        "source": "com.example.aspenbase.app-main-30:/layout/fragment_location.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_hotel.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_hotel.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/activity_home.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/item_popular.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/item_popular.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_profile.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_visit.xml",
+        "source": "com.example.aspenbase.app-main-30:/layout/fragment_visit.xml"
+    },
+    {
+        "merged": "com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_adventure.xml",
+        "source": "com.example.aspenbase.app-main-30:/layout/fragment_adventure.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_location.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_location.xml"
+    },
+    {
+        "merged": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-mergeDebugResources-27:/layout/fragment_dashboard.xml",
+        "source": "/Users/phudinh.tran/.gradle/daemon/8.0/com.example.aspenbase.app-main-30:/layout/fragment_dashboard.xml"
+    }
+]

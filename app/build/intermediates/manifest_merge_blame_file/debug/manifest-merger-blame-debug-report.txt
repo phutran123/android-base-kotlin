@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.aspenbase"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] /Users/phudinh.tran/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.aspenbase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] /Users/phudinh.tran/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] /Users/phudinh.tran/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.aspenbase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] /Users/phudinh.tran/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /Users/phudinh.tran/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:4:5-31:19
+18        android:allowBackup="true"
+18-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:5:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] /Users/phudinh.tran/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:6:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:7:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:8:9-43
+25        android:label="@string/app_name"
+25-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:9:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:10:9-54
+27        android:supportsRtl="true"
+27-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:11:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.AspenBase" >
+29-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:12:9-47
+30        <activity
+30-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:13:9-17:66
+31            android:name="com.example.aspenbase.ui.HomeActivity"
+31-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:14:13-44
+32            android:exported="false"
+32-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:15:13-37
+33            android:label="@string/homeLabel"
+33-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:16:13-46
+34            android:theme="@style/Theme.AspenBase.NoActionBar" />
+34-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:17:13-63
+35        <activity
+35-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:18:9-26:20
+36            android:name="com.example.aspenbase.ui.tutorial.MainActivity"
+36-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:19:13-53
+37            android:exported="true" >
+37-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:20:13-36
+38            <intent-filter>
+38-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:21:13-25:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:22:17-69
+39-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:22:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:24:17-77
+41-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:24:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <meta-data
+45-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:28:9-30:57
+46            android:name="preloaded_fonts"
+46-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:29:13-43
+47            android:resource="@array/preloaded_fonts" />
+47-->/Users/phudinh.tran/Documents/training/android-base-kotlin/app/src/main/AndroidManifest.xml:30:13-54
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.2.0] /Users/phudinh.tran/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.2.0] /Users/phudinh.tran/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+51            android:authorities="com.example.aspenbase.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.2.0] /Users/phudinh.tran/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.2.0] /Users/phudinh.tran/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/phudinh.tran/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/phudinh.tran/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/phudinh.tran/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/phudinh.tran/.gradle/caches/transforms-3/33f5673a7ce4ea52b4f73052faabfed1/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/phudinh.tran/.gradle/caches/transforms-3/33f5673a7ce4ea52b4f73052faabfed1/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/phudinh.tran/.gradle/caches/transforms-3/33f5673a7ce4ea52b4f73052faabfed1/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>
